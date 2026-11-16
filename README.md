@@ -80,7 +80,7 @@ The script executes 4 primary steps in sequence:
 Both the browser developer console and terminal will produce:
 
 ```text
-Step 1: Connected to script.js
+script.js is running
 undefined
 undefined
 48

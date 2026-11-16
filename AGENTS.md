@@ -53,7 +53,7 @@ node script.js
 
 ### Expected Baseline Output (Exact Match):
 ```text
-Step 1: Connected to script.js
+script.js is running
 undefined
 undefined
 48
